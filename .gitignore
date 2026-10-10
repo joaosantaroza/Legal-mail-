@@ -1,0 +1,6 @@
+# Nunca versionar chaves
+*.local
+.env
+.env.*
+api_key*
+__pycache__/
